@@ -1,2 +1,2 @@
 # ddpoc-chrome
-ddpoc的谷歌浏览器插件
+DayDayPoc指纹匹配插件是烽火台实验室开发的一款漏洞指纹匹配插件，可帮助用户检测访问的网站是否命中DayDayPoc的漏洞指纹。
